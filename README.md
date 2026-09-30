@@ -384,7 +384,7 @@ Future development could include:
 ## 📊 Visual Dashboards & Insights
 
 ### 1. Descriptive Analysis Overview
-<img src="https://githubusercontent.com" width="100%">
+![Descriptive Analysis](descriptive-analysis.png)
 
 ### 2. Attrition Analysis Overview
 <img src="https://githubusercontent.com" width="100%">
