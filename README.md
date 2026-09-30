@@ -387,16 +387,16 @@ Future development could include:
 ![Descriptive Analysis](descriptive-analysis.png)
 
 ### 2. Attrition Analysis Overview
-<img src="https://githubusercontent.com" width="100%">
+![Attrition Analysis](attrition-analysis.png)
 
 ### 3. Diagnostic Insights & Segment Breakdowns
-<img src="https://githubusercontent.com" width="100%">
+![Diagnostic Analysis](diagnostic-analysis.png)
 
 ### 4. Predictive Modelling Risk Distribution
-<img src="https://githubusercontent.com" width="100%">
+![Predictive Analysis](predictive-analysis.png)
 
 ### 5. Retention Prioritisation & Resource Allocation
-<img src="https://githubusercontent.com" width="100%">
+![Retention Prioritisation](retention-prioritisation.png)
 
 ---
 
