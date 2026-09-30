@@ -2,6 +2,32 @@
 
 ## Employee Attrition & People Analytics: Understanding Workforce Turnover and Identifying Opportunities for Proactive Retention
 
+---
+
+## 📊 Visual Dashboards & Insights
+
+### 1. Descriptive Analysis Overview
+![Descriptive Analysis](descriptive-analysis.png)
+
+### 2. Diagnostic Insights & Segment Breakdowns
+![Diagnostic Analysis](diagnostic-analysis.png)
+
+### 3. Predictive Modelling Risk Distribution
+![Predictive Analysis](predictive-analysis.png)
+
+### 4. Retention Prioritisation & Resource Allocation
+![Retention Prioritisation](retention-prioritisation.png)
+
+---
+
+## 📁 Project Assets & Source Files
+Because GitHub does not natively display interactive spreadsheets or nested document frames in the browser view, you can download the full high-resolution project materials directly using the buttons below:
+
+* 📄 **[Download the Complete Project Report (PDF)](Employee_Attrition_Analysis.pdf)**
+* 📈 **[Download the Cleaned Dataset & Logistic Regression Model (XLSX)](Employee_Attrition_Analysis.xlsx)**
+
+---
+
 ## Project Overview
 
 This project is a People Analytics case study analysing employee attrition across a workforce of 1,000 employees.
@@ -292,184 +318,4 @@ The model's cumulative capture analysis showed:
 | Top 20% | 48.3% |
 | Top 30% | 59.1% |
 | Top 40% | 65.8% |
-| Top 50% | 76.5% |
-
-For example:
-
-> **The highest-risk 10% of employees contained 31.5% of historical leavers.**
-
-This demonstrates how a risk-ranking approach could help organisations focus limited retention resources on smaller populations.
-
-It does **not** mean that every employee in the high-risk population will leave.
-
----
-
-# 9. Higher-Risk Workforce Profile
-
-The higher predicted-risk population was examined by:
-
-- Country
-- Job level
-- Department
-
-The purpose was to understand the composition of the higher predicted-risk population and identify workforce areas that may warrant further investigation.
-
-These characteristics should not be interpreted as causal drivers of attrition.
-
----
-
-# 10. From Insight to Action
-
-The analysis suggests several areas where HR teams could investigate further:
-
-### Engagement
-
-- Explore drivers of lower employee engagement
-- Review engagement survey themes
-- Consider targeted listening activity within higher-risk populations
-
-### Reward
-
-- Review employees with low compa-ratios
-- Examine salary increase recency
-- Assess internal and external pay positioning
-
-### Progression
-
-- Review progression opportunities
-- Examine employees with extended periods without promotion
-- Assess career pathways for early-career employees
-
-### Workload
-
-- Investigate overtime patterns
-- Review workload and resourcing within affected teams
-- Consider whether sustained overtime is concentrated in particular populations
-
-### Career and retention
-
-- Use the model as a decision-support tool rather than a prediction that an employee will leave
-- Combine analytical signals with manager and employee context
-- Monitor whether interventions are followed by changes in employee experience and attrition
-
----
-
-# 11. Limitations & Next Steps
-
-### Limitations
-
-- The model was developed using the full dataset rather than a separate training and test sample
-- Observed associations do not establish causation
-- Risk thresholds have not been statistically validated
-- Small workforce populations require cautious interpretation
-- Individual risk scores should be treated as decision-support signals rather than predictions that an employee will leave
-- Model calibration should be monitored
-
-### Next steps
-
-Future development could include:
-
-- Train/test split or cross-validation
-- Model calibration analysis
-- Testing alternative modelling approaches
-- Monitoring model performance over time
-- Testing risk thresholds against future attrition outcomes
-- Fairness and subgroup performance checks
-- Further qualitative research through employee surveys or focus groups
-- Tracking the impact of retention interventions
-
----
-
-# Dashboard Screenshots
-
-## Descriptive Analysis
-
-![Descriptive Analysis](screenshots/descriptive-analysis.png)
-
-## Attrition Analysis
-
-![Attrition Analysis](screenshots/attrition-analysis.png)
-
-## Diagnostic Analysis
-
-![Diagnostic Analysis](screenshots/diagnostic-analysis.png)
-
-## Predictive Analysis
-
-![Predictive Analysis](screenshots/predictive-analysis.png)
-
-## Retention Prioritisation
-
-![Retention Prioritisation](screenshots/retention-prioritisation.png)
-
----
-
-# Repository Structure
-
-```text
-employee-attrition-people-analytics/
-│
-├── README.md
-├── Employee_Attrition_Analysis.xlsx
-├── Employee_Attrition_Analytics.pdf
-│
-└── screenshots/
-    ├── descriptive-analysis.png
-    ├── attrition-analysis.png
-    ├── diagnostic-analysis.png
-    ├── predictive-analysis.png
-    └── retention-prioritisation.png
-```
----
-
-## Skills Demonstrated
-- People Analytics
-- Workforce analytics
-- Attrition analysis
-- Employee engagement analysis
-- Reward and compensation analytics
-- Workforce segmentation
-- Retention prioritisation
-
-## Data Analytics
-- Data preparation
-- Exploratory analysis
-- Cross-sectional analysis
-- Statistical modelling
-- Logistic regression
-- Predictive risk modelling
-- Model evaluation
-
-## Data Visualisation
-- Power BI
-- Excel
-- Data storytelling
-- Executive reporting
-
-## Technical
-- Excel
-- Power BI
-- Python
-- SQL
-- GitHub
----
-
-# Key Takeaways
-
-The analysis demonstrates how People Analytics can progress from understanding who is leaving to examining where attrition is concentrated, exploring associated workforce characteristics, estimating individual-level risk, and finally prioritising retention activity.
-
-The key value is not simply predicting attrition, but creating an analytical framework that helps HR teams investigate workforce patterns and make more informed, evidence-based decisions.
-
----
-
-# Author
-
-### **Ola Winjobi**
-##### Data & Analytics Consultant | People Analytics | HR Data & Insights
-- LinkedIn
-- GitHub
-
-
-
-
 
