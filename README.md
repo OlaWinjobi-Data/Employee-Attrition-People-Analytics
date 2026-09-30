@@ -7,16 +7,16 @@
 ## 📊 Visual Dashboards & Insights
 
 ### 1. Descriptive Analysis Overview
-![Descriptive Analysis](descriptive-analysis.png)
+<img src="https://githubusercontent.com" width="100%">
 
 ### 2. Diagnostic Insights & Segment Breakdowns
-![Diagnostic Analysis](diagnostic-analysis.png)
+<img src="https://githubusercontent.com" width="100%">
 
 ### 3. Predictive Modelling Risk Distribution
-![Predictive Analysis](predictive-analysis.png)
+<img src="https://githubusercontent.com" width="100%">
 
 ### 4. Retention Prioritisation & Resource Allocation
-![Retention Prioritisation](retention-prioritisation.png)
+<img src="https://githubusercontent.com" width="100%">
 
 ---
 
