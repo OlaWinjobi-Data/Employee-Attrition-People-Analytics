@@ -9,13 +9,16 @@
 ### 1. Descriptive Analysis Overview
 <img src="https://githubusercontent.com" width="100%">
 
-### 2. Diagnostic Insights & Segment Breakdowns
+### 2. Attrition Analysis Overview
 <img src="https://githubusercontent.com" width="100%">
 
-### 3. Predictive Modelling Risk Distribution
+### 3. Diagnostic Insights & Segment Breakdowns
 <img src="https://githubusercontent.com" width="100%">
 
-### 4. Retention Prioritisation & Resource Allocation
+### 4. Predictive Modelling Risk Distribution
+<img src="https://githubusercontent.com" width="100%">
+
+### 5. Retention Prioritisation & Resource Allocation
 <img src="https://githubusercontent.com" width="100%">
 
 ---
