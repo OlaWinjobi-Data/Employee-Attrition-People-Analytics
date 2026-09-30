@@ -408,22 +408,6 @@ Because GitHub does not natively display interactive spreadsheets or nested docu
 
 ---
 
-# Repository Structure
-
-```text
-employee-attrition-people-analytics/
-│
-├── README.md
-├── Employee_Attrition_Analysis.xlsx
-├── Employee_Attrition_Analytics.pdf
-│
-└── screenshots/
-    ├── descriptive-analysis.png
-    ├── attrition-analysis.png
-    ├── diagnostic-analysis.png
-    ├── predictive-analysis.png
-    └── retention-prioritisation.png
-```
 ---
 
 ## Skills Demonstrated
