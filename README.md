@@ -251,7 +251,7 @@ The model was developed using the full 1,000-employee dataset, so the reported p
 
 The ROC-AUC of **0.728** indicates moderate discrimination between employees who left and those who remained within this development dataset.
 
-The Brier Score of **0.1127** provides an assessment of the accuracy of the predicted probabilities.
+The Brier Score of 0.1127 assesses the accuracy of the model's predicted probabilities, with lower values indicating better probabilistic accuracy.
 
 Because the model was developed on the full dataset, future work should use a holdout sample or cross-validation to assess how well the model generalises to unseen data.
 
@@ -384,20 +384,19 @@ Future development could include:
 ## 📊 Visual Dashboards & Insights
 
 ### 1. Descriptive Analysis Overview
-![Descriptive Analysis](descriptive-analysis.png)
+![Descriptive Analysis](screenshots/descriptive-analysis.png)
 
 ### 2. Attrition Analysis Overview
-![Attrition Analysis](attrition-analysis.png)
+![Attrition Analysis](screenshots/attrition-analysis.png)
 
 ### 3. Diagnostic Insights & Segment Breakdowns
-![Diagnostic Analysis](diagnostic-analysis.png)
+![Diagnostic Analysis](screenshots/diagnostic-analysis.png)
 
 ### 4. Predictive Modelling Risk Distribution
-![Predictive Analysis](predictive-analysis.png)
+![Predictive Analysis](screenshots/predictive-analysis.png)
 
 ### 5. Retention Prioritisation & Resource Allocation
-![Retention Prioritisation](retention-prioritisation.png)
-
+![Retention Prioritisation](screenshots/retention-prioritisation.png)
 ---
 
 ## 📁 Project Assets & Source Files
@@ -418,14 +417,14 @@ employee-attrition-people-analytics/
 ├── Employee_Attrition_Analysis.xlsx
 ├── Employee_Attrition_Analysis.pdf
 │
-└──├── descriptive-analysis.png
+└── screenshots/
+    ├── descriptive-analysis.png
     ├── attrition-analysis.png
     ├── diagnostic-analysis.png
     ├── predictive-analysis.png
     └── retention-prioritisation.png
 ```
 ---
-
 ## Skills Demonstrated
 - People Analytics
 - Workforce analytics
