@@ -469,8 +469,8 @@ The key value is not simply predicting attrition, but creating an analytical fra
 
 ### **Ola Winjobi**
 ##### Data & Analytics Consultant | People Analytics | HR Data & Insights
-- LinkedIn
-- GitHub
+- LinkedIn : **www.linkedin.com/in/olawinjobi**
+- GitHub : **https://github.com/OlaWinjobi-Data**
 
 
 
